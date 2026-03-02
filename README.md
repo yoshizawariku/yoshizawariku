@@ -11,7 +11,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-yoshizawariku-181717?style=flat-square&logo=github)](https://github.com/yoshizawariku)
 [![TOEIC](https://img.shields.io/badge/TOEIC-905-blue?style=flat-square&logo=duolingo&logoColor=white)](https://github.com/yoshizawariku)
 [![University of Tsukuba](https://img.shields.io/badge/University_of_Tsukuba-Cybernics_Lab-purple?style=flat-square)](https://github.com/yoshizawariku)
-[![SII 2026](https://img.shields.io/badge/SII%2FSICE_2026-Cancun%2C_Mexico_🌊-green?style=flat-square)](https://github.com/yoshizawariku)
+[![SII 2026](https://img.shields.io/badge/SII%2FSICE_2026-Cancun%2C_Mexico_%F0%9F%8C%8A-green?style=flat-square)](https://github.com/yoshizawariku)
 
 </div>
 
@@ -163,7 +163,6 @@ Network Infra             XR / Unity / AR-VR
 
 *Research intern / Full-time opportunities welcome*
 
-[![Email](https://img.shields.io/badge/Email-Contact_me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s2330565@u.tsukuba.ac.jp)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/yoshizawariku)
 
 <br/>
