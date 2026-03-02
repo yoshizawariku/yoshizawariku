@@ -142,17 +142,34 @@ class RikuYoshizawa:
 
 ## 🌐 Domain Expertise
 
-```
-Hardware ──────────────────── Software
-   │                              │
-ESP32 / IMU Sensor          PyTorch / CNN / LSTM
-   │                              │
-Embedded C++              OpenSim / Biomechanics
-   │                              │
-Wearable Design      ←→   Digital Twin (NVIDIA Omniverse)
-   │                              │
-Network Infra             XR / Unity / AR-VR
-   └──────────── Physical AI ─────┘
+```mermaid
+graph LR
+    subgraph HW ["🔧 Hardware"]
+        A["📡 ESP32 / IMU Sensor"]
+        B["⚙️ Embedded C++"]
+        C["🦾 Wearable Design"]
+        D["🌐 Network Infra"]
+    end
+
+    PAI(["⚡ Physical AI"])
+
+    subgraph SW ["💻 Software"]
+        E["🧠 PyTorch / CNN / LSTM"]
+        F["🦴 OpenSim / Biomechanics"]
+        G["🏭 NVIDIA Omniverse"]
+        H["🥽 XR / Unity / AR-VR"]
+    end
+
+    A <-.-> E
+    B <-.-> F
+    C <-.-> G
+    D <-.-> H
+    HW <--> PAI
+    PAI <--> SW
+
+    style PAI fill:#58A6FF,color:#0d1117,stroke:#58A6FF,font-weight:bold
+    style HW fill:#161b22,stroke:#30363d,color:#c9d1d9
+    style SW fill:#161b22,stroke:#30363d,color:#c9d1d9
 ```
 
 ---
