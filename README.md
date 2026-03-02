@@ -9,6 +9,7 @@
 
 <!-- Social badges -->
 [![GitHub](https://img.shields.io/badge/GitHub-yoshizawariku-181717?style=flat-square&logo=github)](https://github.com/yoshizawariku)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Riku_Yoshizawa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riku-yoshizawa-927664334)
 [![TOEIC](https://img.shields.io/badge/TOEIC-905-blue?style=flat-square&logo=duolingo&logoColor=white)](https://github.com/yoshizawariku)
 [![University of Tsukuba](https://img.shields.io/badge/University_of_Tsukuba-Cybernics_Lab-purple?style=flat-square)](https://github.com/yoshizawariku)
 [![SII 2026](https://img.shields.io/badge/SII%2FSICE_2026-Cancun%2C_Mexico_%F0%9F%8C%8A-green?style=flat-square)](https://github.com/yoshizawariku)
@@ -181,6 +182,7 @@ graph LR
 *Research intern / Full-time opportunities welcome*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/yoshizawariku)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riku-yoshizawa-927664334)
 
 <br/>
 
