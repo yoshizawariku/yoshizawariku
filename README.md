@@ -29,7 +29,6 @@ class RikuYoshizawa:
     languages   = ["Python", "C#", "C++", "Java"]
     interests   = ["IoT × AI fusion", "Robotics", "Digital Twin", "XR"]
     status      = "🎯 Open to new opportunities"
-    toeic       = 905
     publication = "SII/SICE 2026 @ Cancun, Mexico 🌊"
 ```
 
@@ -105,12 +104,18 @@ class RikuYoshizawa:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yoshizawariku&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshizawariku&layout=compact&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/yoshizawariku">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yoshizawariku&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</a>
+<a href="https://github.com/yoshizawariku?tab=repositories">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshizawariku&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
 
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yoshizawariku&theme=tokyonight&hide_border=true)
+<a href="https://github.com/yoshizawariku">
+  <img src="https://streak-stats.demolab.com?user=yoshizawariku&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
 
@@ -118,12 +123,34 @@ class RikuYoshizawa:
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-[![SquatScope](https://github-readme-stats.vercel.app/api/pin/?username=yoshizawariku&repo=SquatScope&theme=tokyonight&hide_border=true)](https://github.com/yoshizawariku/SquatScope)
-[![Marp4VSCode](https://github-readme-stats.vercel.app/api/pin/?username=yoshizawariku&repo=Marp4VSCode-CSS-CustomPrompt&theme=tokyonight&hide_border=true)](https://github.com/yoshizawariku/Marp4VSCode-CSS-CustomPrompt)
+### 🏋️ [SquatScope](https://github.com/yoshizawariku/SquatScope)
 
-</div>
+IMU + EMG センサ（M5StickC Plus2）から BLE で 1000 Hz データを受信・リアルタイム可視化する Python アプリ
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![BLE](https://img.shields.io/badge/BLE-0082FC?style=flat-square&logo=bluetooth&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+[![Stars](https://img.shields.io/github/stars/yoshizawariku/SquatScope?style=flat-square&color=yellow)](https://github.com/yoshizawariku/SquatScope/stargazers)
+
+</td>
+<td width="50%">
+
+### 🎨 [Marp4VSCode-CSS-CustomPrompt](https://github.com/yoshizawariku/Marp4VSCode-CSS-CustomPrompt)
+
+Marp for VS Code 用カスタム CSS テーマ + AI 支援スライド作成ガイド。GitHub Pages CDN で即利用可能
+
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Marp](https://img.shields.io/badge/Marp-0288D1?style=flat-square&logo=markdown&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github&logoColor=white)
+[![Stars](https://img.shields.io/github/stars/yoshizawariku/Marp4VSCode-CSS-CustomPrompt?style=flat-square&color=yellow)](https://github.com/yoshizawariku/Marp4VSCode-CSS-CustomPrompt/stargazers)
+
+</td>
+</tr>
+</table>
 
 ---
 
