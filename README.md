@@ -69,7 +69,15 @@ class RikuYoshizawa:
 
 ---
 
-## 🛠️ Tech Stack
+## � Publications
+
+| Year | Venue                              | Paper                                                                                                                                               |
+| ---- | ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2026 | **SII/SICE 2026** @ Cancun, Mexico | [Three-Dimensional Knee Joint Contact Force Estimation Using Wearable IMU Sensors and Deep Learning](https://ieeexplore.ieee.org/document/11404679) |
+
+---
+
+## �🛠️ Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
